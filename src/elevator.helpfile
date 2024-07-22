@@ -1,0 +1,4 @@
+[DESCRIPTION]: This app can be used to elevate privileges.
+[USAGE]: elevator [relative path].
+
+If no argument is passed then this help is printed.
