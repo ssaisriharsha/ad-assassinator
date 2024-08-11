@@ -1,10 +1,10 @@
 #include <iostream>
-#include "./elevator.hpp"
-#include "./os-finder.hpp"
+#include "./include/elevator.hpp"
+#include "./include/os-finder.hpp"
 #include <sys/wait.h>
 #include <cstdlib>
 #ifdef __unix__
-#include "./unix-sudo-mode-check.hpp"
+#include "./include/unix-sudo-mode-check.hpp"
 #endif
 #include <string.h>
 

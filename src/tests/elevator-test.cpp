@@ -1,5 +1,5 @@
 #include <iostream>
-#include "../elevator.hpp"
+#include "../include/elevator.hpp"
 
 int main() {
     Elevator elevator;

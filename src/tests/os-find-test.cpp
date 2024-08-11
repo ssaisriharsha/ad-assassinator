@@ -1,4 +1,4 @@
-#include "../os-finder.hpp"
+#include "../include/os-finder.hpp"
 
 int main() {
     osDetector obj;
