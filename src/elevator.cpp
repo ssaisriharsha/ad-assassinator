@@ -1,5 +1,5 @@
 #include <iostream>
-#include "./include/elevator.hpp"
+#include <elevator.hpp>
 #include <fstream>
 #include <sys/wait.h>
 

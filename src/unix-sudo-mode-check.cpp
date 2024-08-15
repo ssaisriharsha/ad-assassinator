@@ -1,6 +1,6 @@
 #include <iostream>
 #ifndef _UNIX_SUDO_MODE_CHECK_HPP_
-#include "./include/unix-sudo-mode-check.hpp"
+#include <unix-sudo-mode-check.hpp>
 #endif
 bool SudoModeChecker::checkSudo() {
     bool root_user;

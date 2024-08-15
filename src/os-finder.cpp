@@ -1,4 +1,4 @@
-#include "./include/os-finder.hpp"
+#include <os-finder.hpp>
 #ifdef __APPLE__
 #include <TargetConditionals.h>
 #endif
